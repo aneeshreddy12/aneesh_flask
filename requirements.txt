@@ -1,0 +1,6 @@
+Flask~=2.2.2
+gunicorn
+numpy
+pandas
+tensorflow-cpu
+librosa
